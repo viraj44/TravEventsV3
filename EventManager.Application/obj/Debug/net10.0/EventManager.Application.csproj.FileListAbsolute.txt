@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\EventManagerApp\EventManager.Application\bin\Debug\net10.0\EventManager.Application.deps.json
+C:\Users\Admin\source\repos\EventManagerApp\EventManager.Application\bin\Debug\net10.0\EventManager.Application.dll
+C:\Users\Admin\source\repos\EventManagerApp\EventManager.Application\bin\Debug\net10.0\EventManager.Application.pdb
+C:\Users\Admin\source\repos\EventManagerApp\EventManager.Application\bin\Debug\net10.0\EventManager.Domain.dll
+C:\Users\Admin\source\repos\EventManagerApp\EventManager.Application\bin\Debug\net10.0\EventManager.Domain.pdb
+C:\Users\Admin\source\repos\EventManagerApp\EventManager.Application\obj\Debug\net10.0\EventManager.Application.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\EventManagerApp\EventManager.Application\obj\Debug\net10.0\EventManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\EventManagerApp\EventManager.Application\obj\Debug\net10.0\EventManager.Application.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\EventManagerApp\EventManager.Application\obj\Debug\net10.0\EventManager.Application.AssemblyInfo.cs
+C:\Users\Admin\source\repos\EventManagerApp\EventManager.Application\obj\Debug\net10.0\EventManager.Application.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\EventManagerApp\EventManager.Application\obj\Debug\net10.0\EventManager.Application.sourcelink.json
+C:\Users\Admin\source\repos\EventManagerApp\EventManager.Application\obj\Debug\net10.0\EventMan.4D929B79.Up2Date
+C:\Users\Admin\source\repos\EventManagerApp\EventManager.Application\obj\Debug\net10.0\EventManager.Application.dll
+C:\Users\Admin\source\repos\EventManagerApp\EventManager.Application\obj\Debug\net10.0\refint\EventManager.Application.dll
+C:\Users\Admin\source\repos\EventManagerApp\EventManager.Application\obj\Debug\net10.0\EventManager.Application.pdb
+C:\Users\Admin\source\repos\EventManagerApp\EventManager.Application\obj\Debug\net10.0\ref\EventManager.Application.dll
